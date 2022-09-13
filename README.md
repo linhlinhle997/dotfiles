@@ -11,6 +11,11 @@ This works in **Pop! OS 22.04**. I don't guarantee other operating systems. It g
 Debian dependencies
 
     sudo apt install zsh-syntax-highlighting autojump zsh-autosuggestions
+or 
+    
+    sudo apt-get install zsh -y
+    sudo curl -L http://install.ohmyz.sh | sh
+    chsh -s $(which zsh)
 
 Copy and paste for the lazy me:
 
