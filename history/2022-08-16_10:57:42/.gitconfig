@@ -1,0 +1,6 @@
+[user]
+	name = linhprimelabo
+	email = i.linh@primelabo.com.vn
+[core]
+	autocrlf = false
+	eol = lf
