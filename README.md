@@ -19,7 +19,7 @@ or
 
 Copy and paste for the lazy me:
 
-    git clone https://github.com/btquanto/dotfiles.git
+    [git clone https://github.com/btquanto/dotfiles.git](https://github.com/linhlinhle997/dotfiles.git)
     ./dotfiles/install.sh
 
 # Local configuration
